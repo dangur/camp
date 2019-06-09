@@ -1,4 +1,4 @@
-Find the right summer day camp for you kid at the right time.
+Find the right summer day camp for your kid(s) at the right time.
 <form action="https://formspree.io/camper@dangur.com" method="POST" />
 Name
 <input type="text" name="name">
